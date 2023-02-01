@@ -1,8 +1,8 @@
 # DynamicComponents
 
-[![FaceBook Card](ss/fb-card.png)](link to your URL)
+[![FaceBook Card](ss/fb-card.png)](https://github.com/maysukyinaing/dynamic-components/blob/master/ss/fb-card.png)
 
-[![Twitter Card](ss/twitter-card.png)](link to your URL)
+[![Twitter Card](ss/twitter-card.png)](https://github.com/maysukyinaing/dynamic-components/blob/master/ss/twitter-card.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
