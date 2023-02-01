@@ -1,6 +1,6 @@
 # DynamicComponents
 
-[![FaceBook Card](ss/fb-card.PNG)](link to your URL)
+[![FaceBook Card](ss/fb-card.png)](link to your URL)
 
 [![Twitter Card](ss/twitter-card.png)](link to your URL)
 
